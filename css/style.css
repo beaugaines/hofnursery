@@ -1,3 +1,21 @@
+/* Needed for sticky footer */
+html, body {
+  height: 100vh;
+}
+
+body>footer {
+  position: sticky;
+  top: 100vh;
+}
+
 #header-image {
   width: 150px;
 }
+
+.centered-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
