@@ -19,3 +19,8 @@ body>footer {
   width: 50%;
 }
 
+/* Strain Cards */
+
+article.strain > header {
+  text-transform: uppercase;
+}
