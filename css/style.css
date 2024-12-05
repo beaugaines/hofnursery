@@ -9,7 +9,7 @@ body>footer {
 }
 
 #header-image {
-  width: 150px;
+  max-width: 400px;
 }
 
 .centered-image {

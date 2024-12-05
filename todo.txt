@@ -1,4 +1,3 @@
-- normalize images
 - add additional pages
 - add contact page
 - og meta data
