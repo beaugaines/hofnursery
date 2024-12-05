@@ -1,0 +1,7 @@
+- normalize images
+- add additional pages
+- add contact page
+- og meta data
+- goog analytics
+- place FB or other ads
+- add caching to headers
